@@ -1,8 +1,8 @@
 def my_hash
   your_hash = {
-    "my car" => suzuki,
-    "my bike" => verde,
-    "my guitar" => schecter,
+    "my car" => 800,
+    "my bike" => 1,
+    "my guitar" => 666,
   }
 end
 
