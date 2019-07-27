@@ -22,7 +22,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-  hash["oil paintins"]
+  shipping_manifest["oil paintins"]
 
 end
 
